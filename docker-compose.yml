@@ -16,7 +16,7 @@ services:
   # C# API (Backend)
   todo-api:
     build:
-      context: ./todo-api/api
+      context: ./todo-api
       dockerfile: Dockerfile
     ports:
       - "5194:8080"
