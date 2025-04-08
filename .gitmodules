@@ -1,0 +1,6 @@
+[submodule "todo-api"]
+	path = todo-api
+	url = https://github.com/jeyakeethan/todo-api
+[submodule "todo-web"]
+	path = todo-web
+	url = https://github.com/jeyakeethan/todo-web
